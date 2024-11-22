@@ -246,19 +246,19 @@ var APP_DATA = {
         {
           "yaw": -1.4421412092757997,
           "pitch": 0.8710363163443446,
-          "title": "Title",
+          "title": "1",
           "text": "Text"
         },
         {
           "yaw": -0.5296795208498501,
           "pitch": 0.41648976168208485,
-          "title": "Title",
+          "title": "2",
           "text": "Text"
         },
         {
           "yaw": -2.654483516781376,
           "pitch": 0.5497885392040232,
-          "title": "Title",
+          "title": "3",
           "text": "Text"
         }
       ]
@@ -306,25 +306,25 @@ var APP_DATA = {
           "yaw": -2.6426869754151525,
           "pitch": 0.44492761109131784,
           "title": "Title",
-          "text": "Text"
+          "text": "4"
         },
         {
           "yaw": -2.100386907145559,
           "pitch": 0.5046328233412645,
           "title": "Title",
-          "text": "Text"
+          "text": "5"
         },
         {
           "yaw": -0.672839249519404,
           "pitch": 0.504578514368692,
           "title": "Title",
-          "text": "Text"
+          "text": "6"
         },
         {
           "yaw": -0.39943702822798066,
           "pitch": 0.28396033563483236,
           "title": "Title",
-          "text": "Text"
+          "text": "7"
         }
       ]
     },
@@ -371,19 +371,19 @@ var APP_DATA = {
           "yaw": -1.8918535967174108,
           "pitch": 0.8400708029367436,
           "title": "Title",
-          "text": "Text"
+          "text": "8"
         },
         {
           "yaw": -0.863745208101971,
           "pitch": 0.746287128849918,
           "title": "Title",
-          "text": "Text"
+          "text": "9"
         },
         {
           "yaw": -0.4176173200547737,
           "pitch": 0.4273863703607983,
           "title": "Title",
-          "text": "Text"
+          "text": "10"
         }
       ]
     }
