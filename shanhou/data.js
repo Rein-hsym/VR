@@ -82,7 +82,7 @@ var APP_DATA = {
     },
     {
       "id": "2--",
-      "name": "山后民俗文化村-店家",
+      "name": "店家",
       "levels": [
         {
           "tileSize": 256,
@@ -135,7 +135,7 @@ var APP_DATA = {
     },
     {
       "id": "3--",
-      "name": "山后民俗文化村-閩式建築，古井",
+      "name": "閩式建築，古井",
       "levels": [
         {
           "tileSize": 256,
@@ -188,7 +188,7 @@ var APP_DATA = {
     },
     {
       "id": "4--",
-      "name": "山后民俗文化村-器物介紹",
+      "name": "器物介紹",
       "levels": [
         {
           "tileSize": 256,
@@ -265,7 +265,7 @@ var APP_DATA = {
     },
     {
       "id": "5--2",
-      "name": "山后民俗文化村-器物介紹2",
+      "name": "器物介紹2",
       "levels": [
         {
           "tileSize": 256,
@@ -330,7 +330,7 @@ var APP_DATA = {
     },
     {
       "id": "6--3",
-      "name": "山后民俗文化村-器物介紹3",
+      "name": "器物介紹3",
       "levels": [
         {
           "tileSize": 256,
