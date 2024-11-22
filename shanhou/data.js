@@ -250,12 +250,6 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": -0.5296795208498501,
-          "pitch": 0.41648976168208485,
-          "title": "Title",
-          "text": "Text"
-        },
-        {
           "yaw": -2.654483516781376,
           "pitch": 0.5497885392040232,
           "title": "Title",
@@ -309,20 +303,8 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": -2.100386907145559,
-          "pitch": 0.5046328233412645,
-          "title": "Title",
-          "text": "Text"
-        },
-        {
           "yaw": -0.672839249519404,
           "pitch": 0.504578514368692,
-          "title": "Title",
-          "text": "Text"
-        },
-        {
-          "yaw": -0.39943702822798066,
-          "pitch": 0.28396033563483236,
           "title": "Title",
           "text": "Text"
         }
@@ -368,20 +350,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.8918535967174108,
-          "pitch": 0.8400708029367436,
-          "title": "Title",
-          "text": "Text"
-        },
-        {
           "yaw": -0.863745208101971,
           "pitch": 0.746287128849918,
-          "title": "Title",
-          "text": "Text"
-        },
-        {
-          "yaw": -0.4176173200547737,
-          "pitch": 0.4273863703607983,
           "title": "Title",
           "text": "Text"
         }
