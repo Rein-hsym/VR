@@ -20,335 +20,36 @@ var APP_DATA = {
       ],
       "faceSize": 832,
       "initialViewParameters": {
-        "yaw": -0.009512667642422201,
-        "pitch": -0.2417047957462941,
-        "fov": 1.2599180821480807
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.032735676115006385,
-          "pitch": 0.03823255791670377,
+          "yaw": 0.1270673364601791,
+          "pitch": 0.0009296041145177014,
           "rotation": 0,
-          "target": "1-823-"
+          "target": "1-"
+        },
+        {
+          "yaw": -0.1664464104103054,
+          "pitch": 0.00343585900920651,
+          "rotation": 0,
+          "target": "1-"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.33322606913382913,
-          "pitch": -0.44811854061105194,
+          "yaw": 0.3741128360252972,
+          "pitch": -0.5712290050997098,
           "title": "823戰史館",
-          "text": "Text"
+          "text": "823戰史館位於中央公園內。兩邊的牆壁上刻了許多劣勢的名字。館外還有各種戰車及淺挺可以拍照。"
         }
       ]
     },
     {
-      "id": "1-823-",
-      "name": "823戰史館-入館",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 832,
-      "initialViewParameters": {
-        "yaw": -0.0664829020149611,
-        "pitch": 0.22888003058064044,
-        "fov": 1.2599180821480807
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.482445159473352,
-          "pitch": 0.25848873673350425,
-          "rotation": 0.7853981633974483,
-          "target": "2-823-1"
-        },
-        {
-          "yaw": 2.9966769174620485,
-          "pitch": 0.3380000391297493,
-          "rotation": 0,
-          "target": "0-823"
-        },
-        {
-          "yaw": 1.464872611558877,
-          "pitch": 0.27153602774565044,
-          "rotation": 5.497787143782138,
-          "target": "7-823-6"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-823-1",
-      "name": "823戰史館-1區",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 832,
-      "initialViewParameters": {
-        "yaw": -1.446456130588114,
-        "pitch": 0.33843828578978474,
-        "fov": 1.2599180821480807
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.08210352789479103,
-          "pitch": 0.21835756073778967,
-          "rotation": 5.497787143782138,
-          "target": "1-823-"
-        },
-        {
-          "yaw": -2.7962086726036954,
-          "pitch": 0.25609549258970077,
-          "rotation": 0.7853981633974483,
-          "target": "3-823-2"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.4936901667933178,
-          "pitch": 0.13908332138312574,
-          "title": "戰時建築",
-          "text": "Text"
-        },
-        {
-          "yaw": 1.7308660728424625,
-          "pitch": 0.05395347472350309,
-          "title": "戰時部隊",
-          "text": "Text"
-        },
-        {
-          "yaw": 0.5233824477464779,
-          "pitch": 0.06442618007987022,
-          "title": "砲彈模擬器",
-          "text": "Text"
-        }
-      ]
-    },
-    {
-      "id": "3-823-2",
-      "name": "823戰史館-2區",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 832,
-      "initialViewParameters": {
-        "yaw": -1.5993977410752578,
-        "pitch": 0.13723252351623927,
-        "fov": 1.2599180821480807
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.3614797720222569,
-          "pitch": 0.3040752224342995,
-          "rotation": 5.497787143782138,
-          "target": "2-823-1"
-        },
-        {
-          "yaw": 2.8363532357957206,
-          "pitch": 0.30842447078280877,
-          "rotation": 0,
-          "target": "4-823-3"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.5718495434129274,
-          "pitch": 0.44997759475906207,
-          "title": "各式砲彈",
-          "text": "Text"
-        }
-      ]
-    },
-    {
-      "id": "4-823-3",
-      "name": "823戰史館-3區",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 832,
-      "initialViewParameters": {
-        "yaw": 0.32399016631756794,
-        "pitch": 0.29644053145337956,
-        "fov": 1.2599180821480807
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.11237937249358154,
-          "pitch": 0.2786356168800399,
-          "rotation": 0,
-          "target": "3-823-2"
-        },
-        {
-          "yaw": -3.021199897525303,
-          "pitch": 0.3882305380817872,
-          "rotation": 0.7853981633974483,
-          "target": "5-823-4"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": 0.9156750526241808,
-          "pitch": 0.272432786200385,
-          "title": "戰時城內模型",
-          "text": "Text"
-        }
-      ]
-    },
-    {
-      "id": "5-823-4",
-      "name": "823戰史館-4區",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 832,
-      "initialViewParameters": {
-        "yaw": 1.8084178458828903,
-        "pitch": 0.1971820064604941,
-        "fov": 1.2599180821480807
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.7535369564491372,
-          "pitch": 0.4535094527476229,
-          "rotation": 5.497787143782138,
-          "target": "4-823-3"
-        },
-        {
-          "yaw": -2.7807789056064607,
-          "pitch": 0.3456744461046988,
-          "rotation": 0,
-          "target": "6-823-5"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": 0.44544014364347717,
-          "pitch": 0.4032290386674049,
-          "title": "坑道模型",
-          "text": "Text"
-        },
-        {
-          "yaw": 2.172755729798392,
-          "pitch": 0.18722183085835198,
-          "title": "運輸作業系統",
-          "text": "Text"
-        }
-      ]
-    },
-    {
-      "id": "6-823-5",
-      "name": "823戰史館-5區",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 832,
-      "initialViewParameters": {
-        "yaw": -1.689548580547985,
-        "pitch": 0.21703532253147273,
-        "fov": 1.2599180821480807
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.22265635110920456,
-          "pitch": 0.2757248547119975,
-          "rotation": 0,
-          "target": "5-823-4"
-        },
-        {
-          "yaw": 3.1112664218387946,
-          "pitch": 0.35286980419440894,
-          "rotation": 0,
-          "target": "7-823-6"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.472461325631869,
-          "pitch": 0.2691432968477798,
-          "title": "作戰方式",
-          "text": "Text"
-        },
-        {
-          "yaw": 1.3368906102212197,
-          "pitch": 0.33332783898590534,
-          "title": "地理位置圖",
-          "text": "Text"
-        }
-      ]
-    },
-    {
-      "id": "7-823-6",
-      "name": "823戰史館-6區",
+      "id": "1-",
+      "name": "入館",
       "levels": [
         {
           "tileSize": 256,
@@ -372,24 +73,317 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.069880097280622,
-          "pitch": 0.37212322458382374,
-          "rotation": 0,
-          "target": "1-823-"
+          "yaw": -1.492214677183627,
+          "pitch": 0.4105128813119414,
+          "rotation": 0.7853981633974483,
+          "target": "2-1"
         },
         {
-          "yaw": -1.431456857582944,
-          "pitch": 0.3157312065186755,
+          "yaw": 1.4403284654951811,
+          "pitch": 0.26886506246284725,
           "rotation": 0,
-          "target": "6-823-5"
+          "target": "7-6"
+        },
+        {
+          "yaw": -2.804425041495275,
+          "pitch": 0.21751089536317814,
+          "rotation": 0,
+          "target": "0-823"
+        },
+        {
+          "yaw": 2.518905721682204,
+          "pitch": 0.19508944759282265,
+          "rotation": 0,
+          "target": "0-823"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-1",
+      "name": "1區",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 832,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.07857671087921325,
+          "pitch": 0.3007033109952566,
+          "rotation": 5.497787143782138,
+          "target": "1-"
+        },
+        {
+          "yaw": -3.0298555770672504,
+          "pitch": 0.3211247720639996,
+          "rotation": 0.7853981633974483,
+          "target": "3-2"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 1.177190697504816,
-          "pitch": 0.3115976233457616,
-          "title": "金廈海灣及當時國際局勢",
-          "text": "Text"
+          "yaw": -1.1771905146251882,
+          "pitch": 0.11080507916961224,
+          "title": "第1區",
+          "text": "這裡有許多按比例做成的模型，包含軍艦、防空洞內部、食物及藥品等。"
+        },
+        {
+          "yaw": 0.5086701307980892,
+          "pitch": 0.11102716077015629,
+          "title": "第1區",
+          "text": "這台機器能讓遊客模擬戰鬥時如何在軍艦上發射砲彈。"
+        }
+      ]
+    },
+    {
+      "id": "3-2",
+      "name": "2區",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 832,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.41250413563759736,
+          "pitch": 0.2584277031276745,
+          "rotation": 5.497787143782138,
+          "target": "2-1"
+        },
+        {
+          "yaw": 2.8300273475933198,
+          "pitch": 0.7842654911062414,
+          "rotation": 0,
+          "target": "4-3"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.6142864898425238,
+          "pitch": 0.3412904742482432,
+          "title": "第2區",
+          "text": "這些是戰時曾用的各種砲彈的模型。"
+        }
+      ]
+    },
+    {
+      "id": "4-3",
+      "name": "3區",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 832,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.2027112904881232,
+          "pitch": 0.34895664641087976,
+          "rotation": 0,
+          "target": "3-2"
+        },
+        {
+          "yaw": 2.954767580997938,
+          "pitch": 0.8290288604737057,
+          "rotation": 0.7853981633974483,
+          "target": "5-4"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.075617018919976,
+          "pitch": -0.04138042598716396,
+          "title": "第3區",
+          "text": "這張圖描述了當時當地居民們在防空洞中的生活。"
+        }
+      ]
+    },
+    {
+      "id": "5-4",
+      "name": "4區",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 832,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.7604648308075515,
+          "pitch": 0.46394465688265285,
+          "rotation": 5.497787143782138,
+          "target": "4-3"
+        },
+        {
+          "yaw": -2.763992824530188,
+          "pitch": 0.4850648475040682,
+          "rotation": 0,
+          "target": "6-5"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.4230656992409454,
+          "pitch": 0.18371237301753496,
+          "title": "第4區",
+          "text": "這是一個電動的小模型，掩飾當初軍艦從坑道中出海的過程。"
+        }
+      ]
+    },
+    {
+      "id": "6-5",
+      "name": "5區",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 832,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.1478404084234164,
+          "pitch": 0.2978587401960411,
+          "rotation": 0,
+          "target": "5-4"
+        },
+        {
+          "yaw": 3.0493788397689947,
+          "pitch": 0.39460284843030635,
+          "rotation": 0,
+          "target": "7-6"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.4703951655453924,
+          "pitch": 0.21573172187875045,
+          "title": "第5區",
+          "text": "這區的看板描述了兩岸當初打仗時做的部屬工程及戰況。"
+        }
+      ]
+    },
+    {
+      "id": "7-6",
+      "name": "6區",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 832,
+      "initialViewParameters": {
+        "yaw": 0.8775979861520096,
+        "pitch": -0.08262530456332229,
+        "fov": 1.2599180821480807
+      },
+      "linkHotspots": [
+        {
+          "yaw": 3.0308295035285084,
+          "pitch": 0.3876318120406008,
+          "rotation": 0,
+          "target": "1-"
+        },
+        {
+          "yaw": -1.4083061232100746,
+          "pitch": 0.35628799308721426,
+          "rotation": 0,
+          "target": "6-5"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 1.2460526001936127,
+          "pitch": 0.004067211447615904,
+          "title": "第6區",
+          "text": "這張圖展示了二戰後各國的情勢及關係。"
         }
       ]
     }
@@ -398,7 +392,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
